@@ -1,0 +1,25 @@
+this is a notebook for GIT commands
+
+to add git --> git add .
+
+then commit the changes --> git commit -m "name the changes"
+
+then push the changes --> git push
+
+
+**********************************************
+**********************************************
+GIT BRANCHES
+
+**********************************************
+***********************************************
+
+creating new branch --> git branch <branchname>
+
+* indicates the current branch we are in
+
+Switching to new branch -->  git checkout <branchname>
+
+*********this will be incremental***********
+
+
